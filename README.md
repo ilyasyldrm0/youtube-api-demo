@@ -1,8 +1,5 @@
 # youtube-api-demo
 
-🔗 Try the API on RapidAPI: https://rapidapi.com/boztek-technology-boztek-technology-default/api/youtube-search-download3
-
-
 Build a YouTube Search & Download API Integration in Minutes (with Apigle API)
 =========================================================
 
